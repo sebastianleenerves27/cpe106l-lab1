@@ -1,6 +1,3 @@
-
-
-
 import unittest
 
 from lab4_pattern import Logger
